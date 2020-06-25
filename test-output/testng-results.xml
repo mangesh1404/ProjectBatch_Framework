@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="158061" started-at="2019-01-02T07:26:37Z" finished-at="2019-01-02T07:29:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="158061" started-at="2019-01-02T07:26:37Z" finished-at="2019-01-02T07:29:15Z">
+      <class name="com.test.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="setUp" is-config="true" duration-ms="15805" started-at="2019-01-01T23:26:37Z" finished-at="2019-01-01T23:26:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="verifyHomePageTitleTest" duration-ms="28" started-at="2019-01-01T23:26:53Z" finished-at="2019-01-01T23:26:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="tearDown" is-config="true" duration-ms="15600" started-at="2019-01-01T23:26:53Z" finished-at="2019-01-01T23:27:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="setUp" is-config="true" duration-ms="7152" started-at="2019-01-01T23:27:09Z" finished-at="2019-01-01T23:27:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPurchaseLinkTest()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="verifyPurchaseLinkTest" duration-ms="545" started-at="2019-01-01T23:27:16Z" finished-at="2019-01-01T23:27:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPurchaseLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="tearDown" is-config="true" duration-ms="15646" started-at="2019-01-01T23:27:16Z" finished-at="2019-01-01T23:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="setUp" is-config="true" duration-ms="7405" started-at="2019-01-01T23:27:32Z" finished-at="2019-01-01T23:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifytestAndInventoryTest()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="verifytestAndInventoryTest" duration-ms="507" started-at="2019-01-01T23:27:39Z" finished-at="2019-01-01T23:27:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytestAndInventoryTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="tearDown" is-config="true" duration-ms="15642" started-at="2019-01-01T23:27:40Z" finished-at="2019-01-01T23:27:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="setUp" is-config="true" duration-ms="12900" started-at="2019-01-01T23:27:56Z" finished-at="2019-01-01T23:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyManufacturingLinkTest()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="verifyManufacturingLinkTest" duration-ms="521" started-at="2019-01-01T23:28:09Z" finished-at="2019-01-01T23:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyManufacturingLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="tearDown" is-config="true" duration-ms="15706" started-at="2019-01-01T23:28:09Z" finished-at="2019-01-01T23:28:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="setUp" is-config="true" duration-ms="9759" started-at="2019-01-01T23:28:25Z" finished-at="2019-01-01T23:28:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyFixedAssetLinkLinkTest()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="verifyFixedAssetLinkLinkTest" duration-ms="536" started-at="2019-01-01T23:28:34Z" finished-at="2019-01-01T23:28:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFixedAssetLinkLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="tearDown" is-config="true" duration-ms="15635" started-at="2019-01-01T23:28:35Z" finished-at="2019-01-01T23:28:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="setUp" is-config="true" duration-ms="7716" started-at="2019-01-01T23:28:51Z" finished-at="2019-01-01T23:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnSalesQuotationEntryPage()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="clickOnSalesQuotationEntryPage" duration-ms="1296" started-at="2019-01-01T23:28:58Z" finished-at="2019-01-01T23:29:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSalesQuotationEntryPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.testcases.HomePageTest@52a86356]" name="tearDown" is-config="true" duration-ms="15623" started-at="2019-01-01T23:29:00Z" finished-at="2019-01-01T23:29:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
